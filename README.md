@@ -30,7 +30,7 @@
 
 ###
 
-<p align="left">Hello! My name is Deborah, but you can call me Rori. I'm a freshman majoring in Computer science and I'm from New York CIty🌃<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">Hello! My name is Deborah, but you can call me Rori. I'm a freshman majoring in Computer science and I'm from New York CIty🌃<br><br>- 🔭 I’m currently working on a platform called Resume AI, more information on that soon. 🤫<br>- 📚 I'm currently learning more databases.<br>- ⚡ In my free time I play guitar, crochet, and watch cartoons.</p>
 
 ###
 
@@ -82,3 +82,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
 
+###
+
+<h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=roridemonslayer&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
