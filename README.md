@@ -30,7 +30,7 @@
 
 ###
 
-<p align="left">Hello! My name is Deborah, but you can call me Rori. I'm a freshman majoring in Computer science and I'm from New York CIty🌃<br><br>- 🔭 I’m currently working on a platform called Resume AI, more information on that soon. 🤫<br>- 📚 I'm currently learning more databases.<br>- ⚡ In my free time I play guitar, crochet, and watch cartoons.</p>
+<p align="left">Hello! My name is Deborah, but you can call me Rori. I'm a sophmore majoring in Computer science and I'm from New York CIty🌃<br><br>- 🔭 I’m currently working on a platform called Resume AI, more information on that soon. 🤫<br>- 📚 I'm currently learning more databases.<br>- ⚡ In my free time I play guitar, crochet, and watch cartoons.</p>
 
 ###
 
