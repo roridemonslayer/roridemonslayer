@@ -1,5 +1,5 @@
 <a href="https://rori-portfolio.vercel.app">
-  <img src="assets/hero.svg" width="100%" alt="A rori.dev production. Hello, I'm Rori Olaniyi, starring as software engineer. Coming winter 2027: SWE intern at Datadog." />
+  <img src="assets/banner-smiski.svg" width="100%" alt="A rori.dev production. Hello, I'm Rori Olaniyi, starring as software engineer. Coming winter 2027: SWE intern at Datadog." />
 </a>
 
 <div align="center">
