@@ -1,113 +1,60 @@
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/kn2avHXPh1THMFuFNR/giphy.gif"  />
-</div>
-
-###
+<a href="https://rori-portfolio.vercel.app">
+  <img src="assets/hero.svg" width="100%" alt="A rori.dev production. Hello, I'm Rori Olaniyi, starring as software engineer. Coming winter 2027: SWE intern at Datadog." />
+</a>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/deborah-olaniyi-707015293/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+
+[![portfolio](https://img.shields.io/badge/portfolio-rori--portfolio.vercel.app-f0a35e?style=for-the-badge&labelColor=0a1340)](https://rori-portfolio.vercel.app)
+[![linkedin](https://img.shields.io/badge/linkedin-deborah%20olaniyi-f0a35e?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a1340)](https://www.linkedin.com/in/deborah-olaniyi-707015293/)
+[![email](https://img.shields.io/badge/say%20hello-email%20me-f0a35e?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a1340)](mailto:olaniyideborah63@gmail.com)
+
 </div>
 
-###
+### 🎬 now showing
 
-<br clear="both">
+- 🐶 **Incoming Software Engineering Intern at [Datadog](https://www.datadoghq.com/)**, starting winter 2027
+- 🎓 CS major and AI minor at **NYIT** in Manhattan, class of 2028
+- 🚀 Co-founding **Novus**, a career GPS that brings the internships and programs hidden in insider networks out into the open
+- ✦ President of **NSBE @ NYIT**, Microsoft ECLSP fellow, America On Tech fellow, and part of Break Through Tech, ColorStack, and Code2040
+
+### 📼 previously on…
+
+| when | role | the plot |
+| --- | --- | --- |
+| summer 2026 | SWE Intern · **Liberty Mutual** | Built RAG chat and hybrid search over 156 competitors' filings. Analyst research went from about 15 minutes to under 10 seconds, with inline citations back to each source PDF. |
+| spring 2026 | Software Engineer · **NYC Civic Engagement** | Built map, timeline, and chart views in React + TypeScript for 3,900 proposals from NYC's $5M participatory budget. Also shipped a 14-language switcher and raised Lighthouse accessibility by 25%. |
+| summer 2025 | Quantum Computing Researcher · **The Coding School** | Used Qiskit optimization to search 4,096 protein-fold configurations for the most stable one. |
+| spring 2025 | Section Leader · **Stanford Code in Place** | Taught 20 students Python every week, from their first program to final projects. 95% finished the course. |
+
+### 🎞️ the filmography
+
+| | project | the logline |
+| --- | --- | --- |
+| 🔎 | [**vector-search-engine**](https://github.com/roridemonslayer/vector-search-engine) | Search by meaning, not keywords. HNSW is written by hand, with no FAISS or Chroma, and lookups are 3–4× faster than brute force. |
+| 🐚 | [**rori.sh**](https://github.com/roridemonslayer/rori.sh) | A Unix shell written from scratch in C with raw system calls: fork/exec, pipes, redirection, and Ctrl+C that kills the command, not the shell. |
+| 📝 | [**resume-auto-filler**](https://github.com/roridemonslayer/resume-auto-filler) | A free, open-source Chrome extension that fills job applications in one click, including the EEO questions most autofillers skip. |
+| 🪞 | [**outfit-mirror**](https://github.com/roridemonslayer/outfit-mirror) | A mirror, not a store. Real-time computer vision reads your outfit's aesthetic, color harmony, and proportions. |
+| 🎸 | [**guitar-CV-Project**](https://github.com/roridemonslayer/guitar-CV-Project) | A guitar teacher that watches your hands (MediaPipe) and listens to your notes (pitch detection). |
+| 🌱 | [**esg-financial-assistant**](https://github.com/roridemonslayer/esg-financial-assistant) | Groups 722 companies by ESG ratings and returns (K-Means + PCA) so student investors can match portfolios to their values. |
+
+### 🤝 guest appearances
+
+- [**Netflix/metaflow-service** #494](https://github.com/Netflix/metaflow-service/pull/494): cap the task fetch in the cache prefetch path (merged)
+- [**youdaheDB** #73](https://github.com/Youdahe123/youdaheDB/pull/73): install SSTables atomically and fsync the directory (merged)
+
+### 🧰 the crew
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,ts,js,c,react,nextjs,tailwind,nodejs,fastapi,postgres,mongodb,docker,aws,git&theme=dark&perline=14" alt="Python, TypeScript, JavaScript, C, React, Next.js, Tailwind, Node.js, FastAPI, PostgreSQL, MongoDB, Docker, AWS, Git" />
+</p>
+
+### 🍃 behind the scenes
+
+Born in New York, raised in Nigeria until I was 7, then grew up on Staten Island. Started college at 16. Off the keyboard I play guitar, crochet, do fashion (I took part in New York Fashion Week), collect cards, and rewatch Studio Ghibli films. Wanda is my favorite Marvel character.
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=roridemonslayer.roridemonslayer&left_color=darkblue&right_color=dimgray"  />
+  <br />
+  <sub>✦ fin ✦ · the full feature, with a soot sprite game, plays at <a href="https://rori-portfolio.vercel.app">rori-portfolio.vercel.app</a></sub>
+  <br />
+  <sub>Howl's castle background art by <b>mint moss</b></sub>
 </div>
-
-###
-
-<h1 align="center">Hello There!😊</h1>
-
-###
-
-<h3 align="center">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">Hello! My name is Deborah, but you can call me Rori. I'm a sophomore majoring in Computer Science and I'm from New York City 🌃<br><br>
-- 🌐 Portfolio: <a href="https://rori-portfolio.vercel.app">rori-portfolio.vercel.app</a><br>
-- 🚀 I'm co-founding <b>Novus</b>, a career GPS that helps every student find internships, scholarships, and programs, not just the ones who already know where to look.<br>
-- 🔭 I like building things from scratch to understand how they really work: search engines, shells, and databases.<br>
-- 📚 I'm currently learning systems programming and contributing to open source.<br>
-- ⚡ In my free time I play guitar, crochet, and watch cartoons.</p>
-
-###
-
-<h3 align="left">✨ Featured projects</h3>
-
-###
-
-| Project | What it is |
-| --- | --- |
-| [vector-search-engine](https://github.com/roridemonslayer/vector-search-engine) | A vector search engine built from scratch in Python. It searches by meaning, not keywords, with no FAISS or Chroma. |
-| [rori.sh](https://github.com/roridemonslayer/rori.sh) | A Unix shell built from scratch in Python, with a REPL loop, fork/exec, piping, and redirection. |
-| [resume-auto-filler](https://github.com/roridemonslayer/resume-auto-filler) | A free, open-source Chrome extension that fills in job applications from your resume. |
-| [outfit-mirror](https://github.com/roridemonslayer/outfit-mirror) | A smart mirror that uses real-time computer vision to read your outfit's aesthetic, color harmony, and proportions, hands-free. |
-| [guitar-CV-Project](https://github.com/roridemonslayer/guitar-CV-Project) | A real-time guitar learning game that scores your playing with computer vision (MediaPipe) and pitch detection. |
-
-###
-
-<h3 align="left">🤝 Open source</h3>
-
-###
-
-- [Netflix/metaflow-service #494](https://github.com/Netflix/metaflow-service/pull/494): cap the task fetch in the cache prefetch path (merged)
-- [youdaheDB #73](https://github.com/Youdahe123/youdaheDB/pull/73): install SSTables atomically and fsync the directory (merged)
-
-###
-
-<h3 align="left">🛠 Language and tools</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="40" alt="chrome logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40" alt="google logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-</div>
-
-###
