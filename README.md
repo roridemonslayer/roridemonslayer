@@ -30,7 +30,35 @@
 
 ###
 
-<p align="left">Hello! My name is Deborah, but you can call me Rori. I'm a sophmore majoring in Computer science and I'm from New York CIty🌃<br><br>- 🔭 I’m currently working on a vector search engine, more information on that soon. 🤫<br>- 📚 I'm currently learning how to build cooler stuff.<br>- ⚡ In my free time I play guitar, crochet, and watch cartoons.</p>
+<p align="left">Hello! My name is Deborah, but you can call me Rori. I'm a sophomore majoring in Computer Science and I'm from New York City 🌃<br><br>
+- 🌐 Portfolio: <a href="https://rori-portfolio.vercel.app">rori-portfolio.vercel.app</a><br>
+- 🚀 I'm co-founding <b>Novus</b>, a career GPS that helps every student find internships, scholarships, and programs, not just the ones who already know where to look.<br>
+- 🔭 I like building things from scratch to understand how they really work: search engines, shells, and databases.<br>
+- 📚 I'm currently learning systems programming and contributing to open source.<br>
+- ⚡ In my free time I play guitar, crochet, and watch cartoons.</p>
+
+###
+
+<h3 align="left">✨ Featured projects</h3>
+
+###
+
+| Project | What it is |
+| --- | --- |
+| [vector-search-engine](https://github.com/roridemonslayer/vector-search-engine) | A vector search engine built from scratch in Python. It searches by meaning, not keywords, with no FAISS or Chroma. |
+| [rori.sh](https://github.com/roridemonslayer/rori.sh) | A Unix shell built from scratch in Python, with a REPL loop, fork/exec, piping, and redirection. |
+| [resume-auto-filler](https://github.com/roridemonslayer/resume-auto-filler) | A free, open-source Chrome extension that fills in job applications from your resume. |
+| [outfit-mirror](https://github.com/roridemonslayer/outfit-mirror) | A smart mirror that uses real-time computer vision to read your outfit's aesthetic, color harmony, and proportions, hands-free. |
+| [guitar-CV-Project](https://github.com/roridemonslayer/guitar-CV-Project) | A real-time guitar learning game that scores your playing with computer vision (MediaPipe) and pitch detection. |
+
+###
+
+<h3 align="left">🤝 Open source</h3>
+
+###
+
+- [Netflix/metaflow-service #494](https://github.com/Netflix/metaflow-service/pull/494): cap the task fetch in the cache prefetch path (merged)
+- [youdaheDB #73](https://github.com/Youdahe123/youdaheDB/pull/73): install SSTables atomically and fsync the directory (merged)
 
 ###
 
