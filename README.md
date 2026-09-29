@@ -16,11 +16,6 @@
 - 🎓 CS major and AI minor at **NYIT** in Manhattan, class of 2028
 - ✦ President of **NSBE @ NYIT**, Microsoft ECLSP fellow, America On Tech fellow, and part of Break Through Tech, ColorStack, and Code2040
 
-### 🤝 guest appearances
-
-- [**Netflix/metaflow-service** #494](https://github.com/Netflix/metaflow-service/pull/494): cap the task fetch in the cache prefetch path (merged)
-- [**youdaheDB** #73](https://github.com/Youdahe123/youdaheDB/pull/73): install SSTables atomically and fsync the directory (merged)
-
 ### 🧰 the crew
 
 <p>
