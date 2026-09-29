@@ -22,10 +22,6 @@
   <img src="https://skillicons.dev/icons?i=python,ts,js,c,react,nextjs,tailwind,nodejs,fastapi,postgres,mongodb,docker,aws,git&theme=dark&perline=14" alt="Python, TypeScript, JavaScript, C, React, Next.js, Tailwind, Node.js, FastAPI, PostgreSQL, MongoDB, Docker, AWS, Git" />
 </p>
 
-### 🍃 behind the scenes
-
-Born in New York, raised in Nigeria until I was 7, then grew up on Staten Island. Started college at 16. Off the keyboard I play guitar, crochet, do fashion (I took part in New York Fashion Week), collect cards, and rewatch Studio Ghibli films. Wanda is my favorite Marvel character.
-
 <div align="center">
   <br />
   <sub>✦ fin ✦ · the full feature, with a soot sprite game, plays at <a href="https://rori-portfolio.vercel.app">rori-portfolio.vercel.app</a></sub>
